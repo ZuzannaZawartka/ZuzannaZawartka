@@ -1,5 +1,27 @@
-# portfolio
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZuzannaZawartka&show_icons=true&count_private=true&theme=dark-smoky)](https://github.com/ZuzannaZawartka/github-readme-stats)
+## 🚀 About Me
+I'm a student of computer science
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZuzannaZawartka&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+## 🛠 My Github Stats
+
+<div align="center">
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=ZuzannaZawartka&show_icons=true&theme=tokyonight" />
+
+  </div>
+
+
+
+  <div align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuzannaZawartka&theme=tokyonight&layout=compact)](https://github.com/ZuzannaZawartka/github-readme-stats" />
+</a>
+  </div>
+
+
+
+
+
+
+
