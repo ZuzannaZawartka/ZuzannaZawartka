@@ -16,10 +16,7 @@
 
 <br>
 
- <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZuzannaZawartka&theme=tokyonight&layout=compact)](https://github.com/ZuzannaZawartka/github-readme-stats" />
-</a>
- </div>
+
 
 
 
